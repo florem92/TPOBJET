@@ -1,3 +1,10 @@
+/**
+ * Test
+ * Flore Massoullié
+ * TPOBJET
+ * 27/09/2013
+ * 
+ */
 package test;
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -14,7 +21,6 @@ public static void main(String[] args) throws FileNotFoundException
 	int pixel,largeur,hauteur,max;
 	int[] histogramme;
 	File fichier=null;
-	//HELLO
 	
 	//Lecture le fichier
 	fichier =new File("/Users/Floremassoullie1/Documents/Workspace/TP_27_09_2013_vf/lena.pgm");
